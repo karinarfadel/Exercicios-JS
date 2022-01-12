@@ -59,3 +59,4 @@ function finalizar() {
         res.innerHTML += `<p> A média dos valores digitados é ${media}.</p>`
     }
 }
+// estudar mais functions, objetos, modularização regEx, JSON, AJAX, NodeJS
